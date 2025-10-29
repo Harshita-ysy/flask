@@ -133,3 +133,27 @@ input:focus, textarea:focus{
   bottom: -40px;
   transform: rotate(-8deg);
 }
+
+/* Navbar Pink Theme */
+.navbar {
+  background-color: #ffe4ec !important;
+}
+
+.navbar .nav-link {
+  color: #d63384 !important;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.navbar .nav-link:hover {
+  color: #ad1457 !important;
+}
+
+.navbar-brand {
+  color: #d81b60 !important;
+  font-weight: 700;
+}
+
+.text-pink {
+  color: #d63384 !important;
+}
